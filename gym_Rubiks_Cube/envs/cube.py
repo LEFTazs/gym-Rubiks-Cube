@@ -28,7 +28,7 @@ class Cube:
     # These are just the characters
     # that get colored when displaying the cube
     tileChar     ='   '
-    tileCharReal =' + '
+    tileCharReal ='▐█▌'
     # Tile -> Color
     colorDict = {
         ' W ' : 'white',
